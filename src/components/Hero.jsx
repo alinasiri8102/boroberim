@@ -36,9 +36,6 @@ export function Hero() {
         </p>
         <ul className="mx-auto mt-8 flex flex-wrap justify-center gap-x-10 gap-y-8 lg:mx-0 lg:justify-between">
           <li className="flex">
-            <Icons.Forbes />
-          </li>
-          <li className="flex">
             <Icons.TechCrunch />
           </li>
           <li className="flex">
